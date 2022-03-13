@@ -26,6 +26,9 @@ if mahasiswa:
 
   print("saya adalah mahasiswa")
 
+else:
+  print("saya bukan mahasiswa")
+
  
 
 #Operator aritmetika
