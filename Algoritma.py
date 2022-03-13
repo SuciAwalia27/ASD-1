@@ -27,6 +27,7 @@ if mahasiswa:
   print("saya adalah mahasiswa")
 
 else:
+
   print("saya bukan mahasiswa")
 
  
@@ -155,7 +156,11 @@ b= 10
 
 Hasil= a >= b
 
-print(a,">=",b,"=",Hasil)#lebih kecil atau sama dengana= 5
+print(a,">=",b,"=",Hasil)
+
+#lebih kecil atau sama dengan
+
+a= 5
 
 b= 10
 
