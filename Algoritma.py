@@ -26,7 +26,7 @@ if mahasiswa:
 
   print("saya adalah mahasiswa")
 
-[13/3 05.55] Suci Awalia Ramadani: #Operator aritmetika
+#Operator aritmetika
 
 #penjumlahan(+)
 
