@@ -30,9 +30,6 @@ d={"Nama":"Suci",
 
 "Status":"Belum kawin"}
 
-print(d)
-
-print(type(d))
 
 #Menampilkan List,Tuple,Set, Dictionary kedalam bentuk perulangan
 
