@@ -30,6 +30,9 @@ d={"Nama":"Suci",
 
 "Status":"Belum kawin"}
 
+print(d)
+
+print(type(d))
 
 #Menampilkan List,Tuple,Set, Dictionary kedalam bentuk perulangan
 
@@ -44,10 +47,6 @@ Dictionary={"Nama":"Suci",
 "Umur":"18",
 
 "Status":"Belum kawin"}
-
-print(d)
-
-print(type(d))
 
 #Perulangan List
 
